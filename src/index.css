@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #fafafa;
+  font-family: sans-serif;
+}
+
+.button {
+  padding: 8px 15px;
+  margin: 0 10px 0 0;
+  font-size: 14px;
+  border-radius: 2px;
+  border: 1px solid;
+}
+
+.button--confirm {
+  background-color: #1F83B9;
+  color: #fff;
+  border-color: #1F83B9;
+}
+.button--danger {
+  background-color: #E9453C;
+  color: #fff;
+  border-color: #E9453C;
+}
+.button--cancel {
+  background-color: #ddd;
+  color: #777;
+  border-color: #ddd;
+}

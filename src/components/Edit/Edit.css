@@ -1,0 +1,29 @@
+.edit {
+  padding: 30px 40px;
+}
+
+.edit__header {
+  margin: 0 0 30px;
+  font-size: 18px;
+  font-weight: normal;
+}
+
+.edit__group {
+  margin: 20px 0;
+  max-width: 350px;
+  display: flex;
+  flex-direction: column;
+}
+
+.edit__label {
+  margin-bottom: 3px;
+  font-size: 12px;
+}
+
+.edit__textfield {
+  box-sizing: border-box;
+  padding: 10px 12px;
+  font-size: 14px;
+  border-radius: 2px;
+  border: 1px solid #ddd;
+}

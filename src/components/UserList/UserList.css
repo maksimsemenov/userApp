@@ -1,0 +1,11 @@
+.list {
+  box-sizing: border-box;
+  padding: 30px 40px;
+}
+
+.list__users {  
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,11 @@
+.footer {
+  position: relative;
+  bottom: 0;
+  padding: 10px 40px;
+}
+
+.footer_copy {
+  font-size: 12px;
+  color: #999;
+  font-weight: lighter;
+}
